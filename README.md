@@ -38,7 +38,7 @@ https://esdoc.bbossgroups.com/#/bboss-build
 
 1. 下载源码工程-基于gradle
 
-https://github.com/bbossgroups/db-elasticsearch-xxjob
+https://github.com/bbossgroups/db-elasticsearch-xxjob2x
 
 从github下载源码工程，然后导入idea或者eclipse
 
