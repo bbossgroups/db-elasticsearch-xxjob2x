@@ -139,8 +139,9 @@ configure(allprojects) { project ->
 		)
 		api(
 				[group: 'com.bbossgroups.plugins', name: 'bboss-datatran-schedule-xxljob', version: "${bboss_es_version}", transitive: true],
+                [group: 'com.bbossgroups.plugins', name: 'bboss-datatran-fileftp', version: "${bboss_es_version}", transitive: true],
 
-		)
+        )
 		api 'com.xuxueli:xxl-job-core:2.4.1'
 //		api 'org.apache-extras.beanshell:bsh:2.0b6'
 		api 'org.xerial:sqlite-jdbc:3.45.1.0'
